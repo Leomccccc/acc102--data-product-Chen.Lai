@@ -62,7 +62,7 @@ This project uses Python for:
 ![Holiday Comparison](figures/holiday_vs_nonholiday.png)
 
 ## 8. Demo Video
-The demo video link will be added before final submission.
+https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/9d8ecaeba28e464688e10da4e7ced4ac1d
 
 ## 9. Limitations and Next Steps
 This project is limited by the variables available in the dataset. Future work could include forecasting, store clustering, or additional retail variables such as promotions, product categories, and regional information.
